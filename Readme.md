@@ -69,3 +69,8 @@ En el artículo 2 el creador de pandas introduce dicha librería en comparación
 | Estilo (20%) | Redacción incoherente gramaticalmente y/o con más de 3 faltas ortográficas. No se presenta ordenadamente el contenido ni se hace uso correcto del formato Jupyter notebook | Redacción coherente, estilo informal o alguna falta ortográfica. Se presenta el cuaderno de Jupyter con celdas adecuadas al uso de lo expuesto | Redacción impecable, con estructura definida, estilo formal y sin faltas ortográficas. Se trabaja con el notebook utilizando estilos, altenando código y comentarios adecuadamete. El estilo de la referencia es correcto e incluye (nombre de autor, año, revista, editorial,...) |
 | Contenidos (40%)  |No hay evidencia de reflexión sobre las referencias propuestas. No hay motivación o justificación de la selección de los artículos  |Se comenta, resume o sintetiza los artículos propuestos. Se justifica resumidamente el motivo de la elección de las referencias  |Se desarrolla, de forma sintetizada y correcta, el trabajo sobre los artículos propuestos. Se muestran ejemplos y descripciones de las cuestiones con código. La actividad tiene entre 500 y 1000 palabras sin contar código o figuras  
 | Referencias (40%) | Las referencias propuestas no tienen relación con el marco de conocimiento de la asignatura. Las referencias aportadas no se consideran de impacto o científicas al no estar en revistas indexadas | Se incluyen referencias complementarias que no son artículos científicos | La referencias son correctas y adecuadas al marco de conocimiento. Se aportan otras referencias complementarias | |
+
+
+## Entrega
+
+La resolución de la actividad se encuentra en el archivo: 01MIAR_ACT_WhitePapers.ipynb
