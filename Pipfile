@@ -4,6 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+jupyter = "*"
+seaborn = "*"
+matplotlib = "*"
+numpy = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
