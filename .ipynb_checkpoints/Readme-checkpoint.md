@@ -1,4 +1,4 @@
-<img src="../img/viu_logo.jpg" width="200">
+<img src="./img/viu_logo.jpg" width="200">
 
 # 01MIAR - Actividad Whitepapers
 
